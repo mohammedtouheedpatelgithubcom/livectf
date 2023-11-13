@@ -1,0 +1,38 @@
+HTB https://app.hackthebox.com/sherlocks/Meerkat
+Search Hack The Box
+touheed
+Meerkat
+Easy
+5.0
+2 Reviews
+Sherlock Scenario
+
+As a fast growing startup, Forela have been utilising a business management platform. Unfortunately our documentation is scarce and our administrators aren't the most security aware. As our new security provider we'd like you to take a look at some PCAP and log data we have exported to confirm if we have (or have not) been compromised.
+meerkat.zip
+6 MB
+hacktheblue
+
+1. We believe our Business Management Platform server has been compromised. Please can you confirm the name of the application running?
+
+2.We believe the attacker may have used a subset of the brute forcing attack category - what is the name of the attack carried out?
+Credential Stuffing
+3.Does the vulnerability exploited have a CVE assigned - and if so, which one?
+
+4.Which string was appended to the API URL path to bypass the authorization filter by the attacker's exploit?
+
+5.How many combinations of usernames and passwords were used in the credential stuffing attack?
+
+6.Which username and password combination was successful?
+
+7.If any, which text sharing site did the attacker utilise?
+
+8.Please provide the file hash of the script used by the attacker to gain persistent access to our host.
+
+9.Please provide the file hash of the public key used by the attacker to gain persistence on our host.
+
+10.Can you confirmed the file modified by the attacker to gain persistence?
+
+11.Can you confirm the MITRE technique ID of this type of persistence mechanism?
+Released on 13 Nov 2023
+Created by sebh24
+
